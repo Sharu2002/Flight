@@ -1,0 +1,68 @@
+.welcome{
+    color: red;
+    text-align: center;
+}
+
+.span{
+background-color: red;
+color: aliceblue;
+}
+
+.span1{
+  margin-top: 50px;
+    margin-left: 700px;
+    background: #fa8a8a;
+    color: #fff;
+
+    padding: 10px;
+    font-weight: bold;
+  }
+
+  .span1:hover{
+background-color: red;
+color: #fff;
+  }
+  
+
+.content1 .btn {
+    margin-top: 50px;
+
+    display: inline-block;
+    padding: 10px 30px;
+    font-size: 20px;
+    background: #fa8a8a;
+    color: #fff;
+
+    text-transform: capitalize;
+    align-content: center;
+    margin-left: 700px;
+  }
+  
+.content1 .btn:hover {
+    background: rgb(255, 0, 51);
+  }
+
+
+  .search
+  {
+
+    margin-top: 30px;
+    margin-left: 500px;
+    padding: 20px;
+
+  }
+
+  .book{
+    padding: 20px;
+    background-color:darkcyan;
+    color: black;
+  }
+
+  .book:hover{
+    background-color: rgb(4, 183, 4);
+    color: #fff;
+  }
+
+  .search1{
+    margin-left: 100px;
+  }
